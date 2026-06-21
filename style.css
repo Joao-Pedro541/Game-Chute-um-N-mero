@@ -1,0 +1,24 @@
+body {
+    background-color: brown;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+
+    min-height: 100vh;
+}
+
+h1{
+    background-color: bisque;
+    padding: 15px;
+    border: 3px;
+    border-radius: 5px;
+}
+
+div{
+    background-color: burlywood;
+    padding: 20px;
+    border: 3px;
+    border-radius: 5px;
+}
